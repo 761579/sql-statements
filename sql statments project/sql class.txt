@@ -1,0 +1,28 @@
+insert into class ( classid, roomid, daytime )
+values ( 111, 123, monAM );
+
+insert into class ( classid, roomid, daytime )
+values ( 112, 125, monPM);
+
+insert into class ( classid, roomid, daytime )
+values ( 113, 123, tueAM );
+
+insert into class ( classid, roomid, daytime )
+values ( 114, 127, tuePM );
+
+insert into class ( classid, roomid, daytime )
+values ( 115, 125, wedAM );
+
+insert into class ( classid, roomid, daytime )
+values ( 116, 124, wedPM );
+
+insert into class ( classid, roomid, daytime )
+values ( 117, 120, thurAM );
+
+insert into class ( classid, roomid, daytime )
+values ( 118, 122, thurPM );
+
+select * from class 
+
+
+

@@ -1,0 +1,25 @@
+insert into enrolment ( 'enrolmentid','classid', 'studentid' )
+values ( 11, 111, 1 );
+
+insert into enrolment ( 'enrolmemtid', 'classid', 'studentid' )
+values ( 12, 112, 2 );
+
+insert into enrolment ('enrolmentid',  'classid', 'studentid' )
+values ( 13, 113, 3 );
+
+insert into enrolment ( 'enrolmentid', 'classid', 'studentid' )
+values ( 14, 114, 4 );
+
+insert into enrolment ( 'enrolmentid','classid', 'studentid' )
+values ( 15, 115, 5 );
+
+insert into enrolment ( 'enrolmentid', 'classid', 'studentid' )
+values (16,  116, 6 );
+
+insert into enrolment ('enrolmentid', 'classid', 'studentid' )
+values ( 17, 117, 7 );
+
+insert into enrolment ( 'enrolmentid', 'classid', 'studentid' )
+values ( 18, 118, 8 );
+
+select * from enrolment;

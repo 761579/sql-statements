@@ -1,0 +1,45 @@
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 112, 'singh' , 'pardeep' );
+select * from student ;
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 113, 'singh' , 'taranjeet' );
+select * from student ;
+ 
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 114, 'singh' , 'anmoldeep' );
+select * from student ;
+ 
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 115, 'tiwana' , 'manpreet' );
+select * from student ;
+ 
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 116, 'kumari' , 'kiran' );
+select * from student ;
+ 
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 117, 'henner' , 'ibrahim' );
+select * from student ;
+ 
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 118, 'fazal' , 'khan' );
+select * from student ;
+ 
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 119, 'hesam' , 'akbari' );
+select * from student ;
+
+insert into student ( studentid, studentlastname, studentfirstname)
+values ( 110, 'semmy' , 'burnham' );
+select * from student ;
+ 
+ 
+ 

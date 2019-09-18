@@ -1,0 +1,8 @@
+select student.studentid, student.studentlastname, student.studentfirstname, 
+class.classid, class.datetime, class.roomid 
+
+from student, class, enrollment
+
+where student.studentid = enrollment.studentid and
+
+enrollment.classid = class.classid
